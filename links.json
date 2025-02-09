@@ -1,7 +1,7 @@
 {
   "courses": {
     "functional_programming": {
-      "topic_name": "Functional Programming",
+      "topic_name": "Functional Python Programming",
       "description": "Master the art of writing clean, efficient code using functional paradigms.",
       "url": "functional.html",
       "subtopics": {
