@@ -7,7 +7,7 @@
       "subtopics": {
          "introduction": {
              "topic_name": "Introduction",
-             "description": "An overview of functional programming principles.",
+             "description": "An overview of functional programming principles. Imperative vs Functional Paradigm",
              "url": "https://nbviewer.org/github/Mubeen-Ahmad/Functional_Programming/blob/main/1.ipynb"
 
              		
