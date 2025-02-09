@@ -8,7 +8,7 @@
          "introduction": {
              "topic_name": "Introduction",
              "description": "An overview of functional programming principles.",
-             "url": "https://your-jupyter-notebook-link.com/intro"
+             "url": "https://github.com/Mubeen-Ahmad/AI/blob/main/DSA/1.ipynb"
          },
          "pure_functions": {
              "topic_name": "Pure Functions",
