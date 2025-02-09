@@ -13,17 +13,17 @@
              		
          },
          "pure_and_impure_functions": {
-             "topic_name": "Pure & Impure Functions",
+             "topic_name": "Pure & Impure Function",
              "description": "Pure Function<br>Impure (Normal) Function",
                   "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/2.ipynb"
          },
          "higher_order_functions": {
-             "topic_name": "Higher Order Functions",
-             "description": "Learn how functions can take or return other functions.",
-             "url": "https://your-jupyter-notebook-link.com/higher-order"
+             "topic_name": "First Class & Higher Order Function",
+             "description": "First Class Function<br>Assign Function in the Variable<br>Higher Order Function<br>Pass Function as a Argument<br>Funtion Return Other Function",
+              	"url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/3.ipynb"
          },
          "recursion": {
-             "topic_name": "Recursion",
+             "topic_name": "Types of Higher Order Functions",
              "description": "Explore recursive techniques for problem solving.",
              "url": "https://your-jupyter-notebook-link.com/recursion"
          },
