@@ -12,10 +12,10 @@
 
              		
          },
-         "pure_functions": {
-             "topic_name": "Pure Functions",
-             "description": "Understanding pure functions and their benefits.",
-             "url": "https://your-jupyter-notebook-link.com/pure"
+         "pure_and_impure_functions": {
+             "topic_name": "Pure Functions and Impure Functions",
+             "description": "Pure Function<br>Impure (Normal) Function<br>Differences",
+                  "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/2.ipynb"
          },
          "higher_order_functions": {
              "topic_name": "Higher Order Functions",
