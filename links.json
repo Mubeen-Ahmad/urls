@@ -7,7 +7,7 @@
       "subtopics": {
          "introduction": {
              "topic_name": "Introduction",
-             "description": "<div><ul><li>An overview of Functional programming principles.</li><li>Imperative vs Functional Paradigm</li><li>Advantages</li></ul></div>",
+             "description": "An overview of Functional programming principles.<br>Imperative vs Functional Paradigm<br>Advantages",
              "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/1.ipynb"
 
              		
