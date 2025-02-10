@@ -29,7 +29,7 @@
          },
          "immutability": {
              "topic_name": "Bulit-In Higher Order Function 1 (Functools) ",
-             "description": "- Partial Function (Fix Argument Value)<br>- Reduce Function (Custom apply Iterable)<br>-cmp_to_key Function (Use with Sorted as a Custom Logic)",
+             "description": "- Partial Function (Fix Argument Value)<br>- Reduce Function (Custom apply Iterable)<br>- cmp_to_key Function (Use with Sorted as a Custom Logic)",
               "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/5.ipynb"
          }
       }
