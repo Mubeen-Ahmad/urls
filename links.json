@@ -7,7 +7,7 @@
       "subtopics": {
          "introduction": {
              "topic_name": "Introduction",
-             "description": "An overview of Functional programming principles.<br>Imperative vs Functional Paradigm<br>Advantages",
+             "description": "- An overview of Functional programming principles.<br>Imperative vs Functional Paradigm<br>Advantages",
              "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/1.ipynb"
 
              		
@@ -19,7 +19,7 @@
          },
          "higher_order_functions": {
              "topic_name": "First Class & Higher Order Function",
-             "description": "First Class Function<br>Assign Function in the Variable<br>Higher Order Function<br>Pass Function as a Argument<br>Funtion Return Other Function",
+             "description": "First Class Function<br>Assign Function in the Variable<br>Higher Order Function<br>Pass Function as a Argument<br>Function Return Other Function",
               	"url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/3.ipynb"
          },
          "recursion": {
