@@ -7,23 +7,23 @@
       "subtopics": {
          "introduction": {
              "topic_name": "Introduction",
-             "description": "- An overview of Functional programming principles.<br>Imperative vs Functional Paradigm<br>Advantages",
+             "description": "- An overview of Functional programming principles.<br>- Imperative vs Functional Paradigm<br>- Advantages",
              "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/1.ipynb"
 
              		
          },
          "pure_and_impure_functions": {
              "topic_name": "Pure & Impure Function",
-             "description": "Pure Function<br>Impure (Normal) Function",
+             "description": "- Pure Function<br>- Impure (Normal) Function",
                   "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/2.ipynb"
          },
          "higher_order_functions": {
              "topic_name": "First Class & Higher Order Function",
-             "description": "First Class Function<br>Assign Function in the Variable<br>Higher Order Function<br>Pass Function as a Argument<br>Function Return Other Function",
+             "description": "- First Class Function<br>- Assign Function in the Variable<br>- Higher Order Function<br>- Pass Function as a Argument<br>- Function Return Other Function",
               	"url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/3.ipynb"
          },
          "recursion": {
-             "topic_name": "Types of Higher Order Functions",
+             "topic_name": "- Types of Higher Order Functions",
              "description": "Explore recursive techniques for problem solving.",
              "url": "https://your-jupyter-notebook-link.com/recursion"
          },
