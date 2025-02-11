@@ -5,13 +5,17 @@
       "description": "Master the art of writing clean, efficient code using functional paradigms.",
       "url": "functional.html",
       "subtopics": {
-         "introduction": {
+      
+      	    "Function": {
+             "topic_name": "Function",
+             "description": "- What is Function<br>- return Statement<br>- Nested Function<br>- *args<br>- **kwargs<br>- default Argument",
+             "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.ipynb"
+              },
+           "introduction": {
              "topic_name": "Introduction",
              "description": "- An overview of Functional programming principles.<br>- Imperative vs Functional Paradigm<br>- Advantages",
              "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/1.ipynb"
-
-             		
-         },
+              },
          "pure_and_impure_functions": {
              "topic_name": "Pure & Impure Function",
              "description": "- Pure Function<br>- Impure (Normal) Function",
