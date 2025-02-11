@@ -22,15 +22,20 @@
              "description": "- First Class Function<br>- Assign Function in the Variable<br>- Higher Order Function<br>- Pass Function as a Argument and Call Function With The Argument<br>- Function Return Other Function and Call it Outside",
               	"url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/3.ipynb"
          },
-         "recursion": {
+         "close_function": {
              "topic_name": "Closure Function",
              "description": "- What is Closure Function<br> - All Clouser Function is also a Higher Order Function<br>- But All Higher Order Function are Not a Clouser Function",
               "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/4.ipynb"
          },
-         "immutability": {
+         "bulitin_hof1": {
              "topic_name": "Bulit-In Higher Order Function 1 (Functools) ",
-             "description": "- Partial Function (Fix Argument Value)<br>- Reduce Function (Custom apply Iterable)<br>- cmp_to_key Function (Use with Sorted as a Custom Logic)",
+             "description": "- Partial Function (Fix Argument Value)<br>- Reduce Function (Single Value Return)<br>- Map Function(Apply operation)<br>- Filter Function(Select True Value)<br>- cmp_to_key Function (Use with Sorted as a Custom Logic)",
               "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/5.ipynb"
+         },
+           "dec": {
+             "topic_name": "Decorators ",
+             "description": "- What is Decorators<br>- @ Syntax<br>- All Decorators is a HOF<br>- But All HOF are Not a Decorators<br>- Where we Used Decorators",
+              "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/6.ipynb"
          }
       }
     },
