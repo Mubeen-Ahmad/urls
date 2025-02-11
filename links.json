@@ -8,7 +8,7 @@
       
       	    "Function": {
              "topic_name": "Function",
-             "description": "- What is Function<br>- return Statement<br>- Nested Function<br>- *args<br>- **kwargs<br>- default Argument",
+             "description": "- What is Function<br>- What is return Statement<br>- What is Nested Function<br>- *args and  **kwargs<br>- default Argument",
              "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.ipynb"
               },
            "introduction": {
