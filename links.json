@@ -21,6 +21,11 @@
              "description": "- lambda Anonmyous<br>- What is Docstring<br>- What should be included in a docstring?",
              "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.2ipynb"
              },
+             "namespace": {
+             "topic_name": "Namespaces LEGB Rule",
+             "description": "- Local Scope<br>- Global Scope<br>- Enclosing / Non Local Scope<br>- Built-In Scope<br>- local and global keyword<br>- locals and globals Function",
+             "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.3ipynb"
+             },
            "introduction": {
              "topic_name": "Introduction of Functional Programming",
              "description": "- An overview of Functional programming principles.<br>- Imperative vs Functional Paradigm<br>- Advantages",
