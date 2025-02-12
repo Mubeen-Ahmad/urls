@@ -11,6 +11,16 @@
              "description": "- What is Function<br>- What is return Statement<br>- What is Nested Function<br>- *args and  **kwargs<br>- default Argument",
              "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.ipynb"
               },
+             "refference": {
+             "topic_name": "Pass By Value or Refference",
+             "description": "- Immutable Object (Support as Pass by Value)<br>- mutable Object (Support as Pass by Refference)",
+             "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.1ipynb"
+             },
+             "lambda_doc": {
+             "topic_name": "Lambda Function and Docstring",
+             "description": "- lambda Anonmyous<br>- What is Docstring<br>- What should be included in a docstring?",
+             "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.2ipynb"
+             },
            "introduction": {
              "topic_name": "Introduction",
              "description": "- An overview of Functional programming principles.<br>- Imperative vs Functional Paradigm<br>- Advantages",
