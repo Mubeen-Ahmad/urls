@@ -14,17 +14,17 @@
              "refference": {
              "topic_name": "Pass By Value or Refference",
              "description": "- Immutable Object (Support as Pass by Value)<br>- mutable Object (Support as Pass by Refference)",
-             "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.1ipynb"
+             "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.1.ipynb"
              },
              "lambda_doc": {
              "topic_name": "Lambda Function and Docstring",
              "description": "- lambda Anonmyous<br>- What is Docstring<br>- What should be included in a docstring?",
-             "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.2ipynb"
+             "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.2.ipynb"
              },
              "namespace": {
              "topic_name": "Namespaces LEGB Rule",
              "description": "- Local Scope<br>- Global Scope<br>- Enclosing / Non Local Scope<br>- Built-In Scope<br>- local and global keyword<br>- locals and globals Function",
-             "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.3ipynb"
+             "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.3.ipynb"
              },
            "introduction": {
              "topic_name": "Introduction of Functional Programming",
