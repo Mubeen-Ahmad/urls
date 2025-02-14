@@ -53,7 +53,7 @@
          },
            "dec": {
              "topic_name": "Decorators ",
-             "description": "- What is Decorators<br>- @ Syntax<br>- All Decorators is a HOF<br>- But All HOF are Not a Decorators<br>- Where we Used Decorators<br>- Multiple Decorators<br>- Parameters in Decorators (Multi-Level Used only if Parameter required directly in Decorators)<br>- Arags and Kwargs in Decorators Function",
+             "description": "- What is Decorators<br>- @ Syntax<br>- All Decorators is a HOF<br>- But All HOF are Not a Decorators<br>- Where we Used Decorators<br>- Multiple Decorators<br>- Parameters in Decorators (Multi-Level Used only if Parameter required directly in Decorators)<br>-Arags and Kwargs in Decorators Function",
               "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/6.ipynb"
          }
       }
