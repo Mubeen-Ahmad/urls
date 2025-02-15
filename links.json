@@ -58,7 +58,7 @@
          },
          "bulitin_hof2": {
              "topic_name": "Bulit-In Higher Order Function 2 (Functools) ",
-             "description": "- wraps Function (Copy Metadata of Orignal Function)<br>- singledispatch Function (Change the Function Behavior for Different DataType)<br>-lru_cache Function(Store Recently Use Values)",
+             "description": "- wraps Function (Copy Metadata of Orignal Function)<br>- singledispatch Function (Change the Function Behavior for Different DataType)<br>- lru_cache Function(Store Recently Use Values)",
               "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/7.ipynb"
          }
       }
