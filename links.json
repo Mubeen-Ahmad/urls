@@ -63,7 +63,7 @@
          },
          "topic8": {
              "topic_name": "Currying and Composition",
-             "description": "- Curring (Just Divide Multiple Arguments into Nested Functions)<br>- Composition (Just Pass Functions into Single Function and Create a New Function)<br>- Concept of HOF<br>- Concept of  Closure<br>- Concept of Decorator<br>- Concept of Currying<br>             - Concept of Composition",
+             "description": "- Curring (Just Divide Multiple Arguments into Nested Functions)<br>- Composition (Just Pass Functions into Single Function and Create a New Function)<br>- Concept of HOF<br>- Concept of  Closure<br>- Concept of Decorator<br>- Concept of Currying<br>- Concept of Composition",
               "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/8.ipynb"
          }
       }
