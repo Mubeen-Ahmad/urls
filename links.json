@@ -26,6 +26,11 @@
              "description": "- Local Scope<br>- Global Scope<br>- Enclosing / Non Local Scope<br>- Built-In Scope<br>- local and global keyword<br>- locals and globals Function",
              "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.3.ipynb"
              },
+             "iter_iterable": {
+             "topic_name": "Iterables and Iterators",
+             "description": "- What is Iterable (Sequential Data Types)<br>- Iterators (Convert iterable into Iterator for iterate)<br>- iter() Function (convert iterable to iterator)<br>- next() Function (Iterations)<br>- Sequential Process (User Single Value at 1 time)<br>-  Is All Iterables are Iterators ? (No)<br>- Identify Iterators (with collections.abc.Iterable with isinstance function)<br>- itertools.chain() Method<br>- itertools.permutations() Method<br>- itertools.combinations() Method<br>- itertools.accumulate() Method<br>- itertools.cycle() Method<br>- zip Function<br>- enumerate() Function",
+             "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/10.ipynb"
+             },
            "introduction": {
              "topic_name": "Introduction of Functional Programming",
              "description": "- An overview of Functional programming principles.<br>- Imperative vs Functional Paradigm<br>- Advantages",
