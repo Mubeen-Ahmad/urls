@@ -33,8 +33,8 @@
              },
               "Generators": {
              "topic_name": "Generators",
-             "description": "- What is Generators (Special Type of Iterator)<br>- Concept of Yield<br>- Concept of Pause and Resume<br>- Sender and Reciver Concept(.send Method)<br>- next() and .send()<br>- Throw Error outside (.throw Method)<br>- Close Generator (.close() Method)<br>- Normal Iterators Vs Generators<br>- Generaters Vs Function",
-             "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/10.ipynb"
+             "description": "- What is Generators (Special Type of Iterator)<br>- Concept of Yield<br>- Concept of Pause and Resume<br>- Sender and Reciver Concept(.send Method)<br>- next() and .send<br>- Throw Error outside (.throw Method)<br>- Close Generator (.close Method)<br>- Normal Iterators Vs Generators<br>- Generaters Vs Function",
+             "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/11.ipynb"
              },
            "introduction": {
              "topic_name": "Introduction of Functional Programming",
