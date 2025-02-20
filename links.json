@@ -31,6 +31,11 @@
              "description": "- What is Iterable (Sequential Data Types)<br>- Iterators (Convert iterable into Iterator for iterate)<br>- iter() Function (convert iterable to iterator)<br>- next() Function (Iterations)<br>- Sequential Process (User Single Value at 1 time)<br>-  Is All Iterables are Iterators ? (No)<br>- Identify Iterators (with collections.abc.Iterable with isinstance function)<br>- itertools.chain() Method<br>- itertools.permutations() Method<br>- itertools.combinations() Method<br>- itertools.accumulate() Method<br>- itertools.cycle() Method<br>- zip Function<br>- enumerate() Function",
              "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/10.ipynb"
              },
+              "Generators": {
+             "topic_name": "gen",
+             "description": "- What is Generators (Special Type of Iterator)<br>- Concept of Yield<br>- Concept of Pause and Resume<br>- Sender and Reciver Concept(.send Method)<br>- next() and .send()<br>- Throw Error outside (.throw Method)<br>- Close Generator (.close() Method)<br>- Normal Iterators Vs Generators<br>- Generaters Vs Function",
+             "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/10.ipynb"
+             },
            "introduction": {
              "topic_name": "Introduction of Functional Programming",
              "description": "- An overview of Functional programming principles.<br>- Imperative vs Functional Paradigm<br>- Advantages",
