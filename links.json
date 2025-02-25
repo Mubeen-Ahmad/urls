@@ -85,6 +85,11 @@
              "topic_name": "Recursion",
              "description": "- What is Recursion<br>- Base Case and Recursive Case<br>- Direct Recursion<br>- InDirect Recursion<br>- Tail Recursion<br>- Tree Recursion<br>- Nested Recursion<br>- Common Mistakes in Recursion",
               "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/9.ipynb"
+         } ,
+         "project1": {
+             "topic_name": "Mini Project 1",
+             "description": "- Create a Login System<br>- Manage Tokens and Sessions<br>- Manage Validations With Decorators",
+              "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/project1.ipynb"
          }
       }
     },
