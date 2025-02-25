@@ -88,7 +88,7 @@
          } ,
          "project1": {
              "topic_name": "Mini Project 1",
-             "description": "- Create a Login System<br>- Manage Tokens and Sessions<br>- Manage Validations With Decorators",
+             "description": "- Create a Login System<br>- Manage Tokens and Sessions<br>- Manage Validations With Decorators<br>- Use Generator For Send a Messages",
               "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/project1.ipynb"
          }
       }
