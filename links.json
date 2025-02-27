@@ -72,7 +72,7 @@
         }
       }
     },
-    "dsa": {
+    "machine_learning": {
       "topic_name": "DSA Python",
       "description": "Explore DSA that provides efficient ways to store and process data, covering sorting, searching, recursion, graphs, trees, and optimization algorithms.",
       "url": "dsa.html",
