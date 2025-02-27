@@ -80,7 +80,7 @@
         "Function": {
           "topic_name": "Scalar, Vector, Array, and Tensors",
           "description": "- What is Scalar (Single Value)<br>- What is Vector (1-D)<br>- What is Array (n-D)<br>- What is Tensors (n-D)",
-          "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.ipynb"
+          "url": "https://github.com/Mubeen-Ahmad/DSA/blob/main/1.ipynb"
         }
       }
     },
