@@ -97,10 +97,15 @@
       "description": "Explore DSA that provides efficient ways to store and process data, covering sorting, searching, recursion, graphs, trees, and optimization algorithms.",
       "url": "dsa.html",
       "subtopics": {
-        "Function": {
+        "t1": {
           "topic_name": "Scalar, Vector, Array, and Tensors",
           "description": "- What is Scalar (Single Value)<br>- What is Vector (1-D)<br>- What is Array (n-D)<br>- What is Tensors (n-D)",
           "url": "https://github.com/Mubeen-Ahmad/DSA/blob/main/1.ipynb"
+        },
+        "t2": {
+          "topic_name": "Arrays Data Structures",
+          "description": "-  Primitive and Non- Primitive Data Types<br>- Arrays Data Structures<br>- Linear Data Structure<br>- Homogeneous vs Non-Homogeneous <br>- Static vs Dynamic",
+          "url": "https://github.com/Mubeen-Ahmad/DSA/blob/main/2.ipynb"
         }
       }
     },
