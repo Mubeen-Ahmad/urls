@@ -97,13 +97,13 @@
       "topic_name": "DSA in Python",
       "description": "Explore DSA that provides efficient ways to store and process data, covering sorting, searching, recursion, graphs, trees, and optimization algorithms.",
       "url": "dsa.html",
-       "subtopics": {
-       		"Function": {
-             "topic_name": "Scalar,  Vector,  Array  and Tensors",
-             "description": "- What is Scaler (Single Value)<br>- What is Vector (1-D)<br>- What is Array (n-D)<br>- What is Tensors (n-D)",
+         "subtopics": {
+      
+      	    "Function": {
+             "topic_name": "Function",
+             "description": "- What is Function<br>- What is return Statement<br>- What is Nested Function<br>- *args and  **kwargs<br>- default Argument",
              "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.ipynb"
-              },
-       }
+              }
     },
     "deep_learning": {
       "topic_name": "Deep Learning",
