@@ -3,7 +3,7 @@
     "functional_programming": {
       "topic_name": "Functional Python Programming",
       "description": "Master the art of writing clean, efficient code using functional paradigms.",
-      "url": "functional.html",
+      "url": "functional_programming.html",
       "subtopics": {
         "Function": {
           "topic_name": "Function",
@@ -72,7 +72,7 @@
         }
       }
     },
-    "machine_learning": {
+    "dsa": {
       "topic_name": "DSA Python",
       "description": "Explore DSA that provides efficient ways to store and process data, covering sorting, searching, recursion, graphs, trees, and optimization algorithms.",
       "url": "dsa.html",
@@ -87,9 +87,9 @@
     "deep_learning": {
       "topic_name": "Deep Learning",
       "description": "Dive into neural networks and cutting-edge AI techniques.",
-      "url": "deep.html"
+      "url": "deep_learning.html"
     },
-    "python_for_data_science": {
+    "python": {
       "topic_name": "Python for Data Science",
       "description": "Enhance your Python skills for data analysis and visualization.",
       "url": "python.html"
