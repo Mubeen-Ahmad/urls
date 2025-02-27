@@ -4,72 +4,92 @@
       "topic_name": "Functional Python Programming",
       "description": "Master the art of writing clean, efficient code using functional paradigms.",
       "url": "functional_programming.html",
-      "subtopics": {
-        "Function": {
-          "topic_name": "Function",
-          "description": "- What is Function<br>- What is return Statement<br>- What is Nested Function<br>- *args and **kwargs<br>- default Argument",
-          "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.ipynb"
-        },
-        "refference": {
-          "topic_name": "Pass By Value or Reference",
-          "description": "- Immutable Object (Support as Pass by Value)<br>- Mutable Object (Support as Pass by Reference)",
-          "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.1.ipynb"
-        },
-        "lambda_doc": {
-          "topic_name": "Lambda Function and Docstring",
-          "description": "- Lambda Anonymous<br>- What is Docstring<br>- What should be included in a docstring?",
-          "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.2.ipynb"
-        },
-        "namespace": {
-          "topic_name": "Namespaces LEGB Rule",
-          "description": "- Local Scope<br>- Global Scope<br>- Enclosing / Non Local Scope<br>- Built-In Scope<br>- Local and Global keyword<br>- locals and globals Function",
-          "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.3.ipynb"
-        },
-        "iter_iterable": {
-          "topic_name": "Iterables and Iterators",
-          "description": "- What is Iterable (Sequential Data Types)<br>- Iterators (Convert iterable into Iterator for iterate)<br>- iter() Function (convert iterable to iterator)<br>- next() Function (Iterations)<br>- Sequential Process (Use Single Value at 1 time)<br>- Are All Iterables Iterators? (No)<br>- Identify Iterators (with collections.abc.Iterable with isinstance function)<br>- itertools.chain() Method<br>- itertools.permutations() Method<br>- itertools.combinations() Method<br>- itertools.accumulate() Method<br>- itertools.cycle() Method<br>- zip Function<br>- enumerate() Function",
-          "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/10.ipynb"
-        },
-        "Generators": {
-          "topic_name": "Generators",
-          "description": "- What is Generators (Special Type of Iterator)<br>- Concept of Yield<br>- Concept of Pause and Resume<br>- Sender and Receiver Concept (.send Method)<br>- next() and .send<br>- Throw Error outside (.throw Method)<br>- Close Generator (.close Method)<br>- Normal Iterators Vs Generators<br>- Generators Vs Function",
-          "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/11.ipynb"
-        },
-        "Comprehensions": {
-          "topic_name": "Comprehensions",
-          "description": "- List Comprehensions<br>- Set Comprehensions<br>- Dictionary Comprehensions<br>- Generator Comprehensions",
-          "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/12.ipynb"
-        },
-        "introduction": {
-          "topic_name": "Introduction to Functional Programming",
-          "description": "- An overview of Functional programming principles.<br>- Imperative vs Functional Paradigm<br>- Advantages",
-          "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/1.ipynb"
-        },
-        "pure_and_impure_functions": {
-          "topic_name": "Pure & Impure Function",
-          "description": "- Pure Function<br>- Impure (Normal) Function",
-          "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/2.ipynb"
-        },
-        "higher_order_functions": {
-          "topic_name": "First Class & Higher Order Function",
-          "description": "- First Class Function<br>- Assign Function in the Variable<br>- Higher Order Function<br>- Pass Function as an Argument and Call Function With The Argument<br>- Function Return Other Function and Call it Outside",
-          "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/3.ipynb"
-        },
-        "close_function": {
-          "topic_name": "Closure Function",
-          "description": "- What is Closure Function<br>- All Closure Functions are also Higher Order Functions<br>- But Not All Higher Order Functions are Closure Functions",
-          "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/4.ipynb"
-        },
-        "bulitin_hof1": {
-          "topic_name": "Built-In Higher Order Function 1 (Functools)",
-          "description": "- Partial Function (Fix Argument Value)<br>- Reduce Function (Single Value Return)<br>- Map Function (Apply operation)<br>- Filter Function (Select True Value)<br>- cmp_to_key Function (Use with Sorted as a Custom Logic)",
-          "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/5.ipynb"
-        },
-        "dec": {
-          "topic_name": "Decorators",
-          "description": "- What is Decorators<br>- @ Syntax<br>- All Decorators are HOFs<br>- But Not All HOFs are Decorators<br>- Where We Use Decorators<br>- Multiple Decorators<br>- Parameters in Decorators (Multi-Level Used only if Parameter required directly in Decorators)<br>- Args and Kwargs in Decorators Function",
-          "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/6.ipynb"
-        }
+           "subtopics": {
+      	    "Function": {
+             "topic_name": "Function",
+             "description": "- What is Function<br>- What is return Statement<br>- What is Nested Function<br>- *args and  **kwargs<br>- default Argument",
+             "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.ipynb"
+              },
+             "refference": {
+             "topic_name": "Pass By Value or Refference",
+             "description": "- Immutable Object (Support as Pass by Value)<br>- mutable Object (Support as Pass by Refference)",
+             "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.1.ipynb"
+             },
+             "lambda_doc": {
+             "topic_name": "Lambda Function and Docstring",
+             "description": "- lambda Anonmyous<br>- What is Docstring<br>- What should be included in a docstring?",
+             "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.2.ipynb"
+             },
+             "namespace": {
+             "topic_name": "Namespaces LEGB Rule",
+             "description": "- Local Scope<br>- Global Scope<br>- Enclosing / Non Local Scope<br>- Built-In Scope<br>- local and global keyword<br>- locals and globals Function",
+             "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.3.ipynb"
+             },
+             "iter_iterable": {
+             "topic_name": "Iterables and Iterators",
+             "description": "- What is Iterable (Sequential Data Types)<br>- Iterators (Convert iterable into Iterator for iterate)<br>- iter() Function (convert iterable to iterator)<br>- next() Function (Iterations)<br>- Sequential Process (User Single Value at 1 time)<br>-  Is All Iterables are Iterators ? (No)<br>- Identify Iterators (with collections.abc.Iterable with isinstance function)<br>- itertools.chain() Method<br>- itertools.permutations() Method<br>- itertools.combinations() Method<br>- itertools.accumulate() Method<br>- itertools.cycle() Method<br>- zip Function<br>- enumerate() Function",
+             "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/10.ipynb"
+             },
+              "Generators": {
+             "topic_name": "Generators",
+             "description": "- What is Generators (Special Type of Iterator)<br>- Concept of Yield<br>- Concept of Pause and Resume<br>- Sender and Reciver Concept(.send Method)<br>- next() and .send<br>- Throw Error outside (.throw Method)<br>- Close Generator (.close Method)<br>- Normal Iterators Vs Generators<br>- Generaters Vs Function",
+             "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/11.ipynb"
+             }, 
+             "Comprehensions ": {
+             "topic_name": "Comprehensions ",
+             "description": "- List Comprehensions<br>- Set Comprehensions<br>- Dictionary Comprehensions<br>- Generator Comprehensions",
+             "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/12.ipynb"
+             },
+           "introduction": {
+             "topic_name": "Introduction of Functional Programming",
+             "description": "- An overview of Functional programming principles.<br>- Imperative vs Functional Paradigm<br>- Advantages",
+             "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/1.ipynb"
+              },
+         "pure_and_impure_functions": {
+             "topic_name": "Pure & Impure Function",
+             "description": "- Pure Function<br>- Impure (Normal) Function",
+                  "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/2.ipynb"
+         },
+         "higher_order_functions": {
+             "topic_name": "First Class & Higher Order Function",
+             "description": "- First Class Function<br>- Assign Function in the Variable<br>- Higher Order Function<br>- Pass Function as a Argument and Call Function With The Argument<br>- Function Return Other Function and Call it Outside",
+              	"url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/3.ipynb"
+         },
+         "close_function": {
+             "topic_name": "Closure Function",
+             "description": "- What is Closure Function<br> - All Clouser Function is also a Higher Order Function<br>- But All Higher Order Function are Not a Clouser Function",
+              "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/4.ipynb"
+         },
+         "bulitin_hof1": {
+             "topic_name": "Bulit-In Higher Order Function 1 (Functools) ",
+             "description": "- Partial Function (Fix Argument Value)<br>- Reduce Function (Single Value Return)<br>- Map Function(Apply operation)<br>- Filter Function(Select True Value)<br>- cmp_to_key Function (Use with Sorted as a Custom Logic)",
+              "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/5.ipynb"
+         },
+           "dec": {
+             "topic_name": "Decorators ",
+             "description": "- What is Decorators<br>- @ Syntax<br>- All Decorators is a HOF<br>- But All HOF are Not a Decorators<br>- Where we Used Decorators<br>- Multiple Decorators<br>- Parameters in Decorators (Multi-Level Used only if Parameter required directly in Decorators)<br>- Arags and Kwargs in Decorators Function",
+              "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/6.ipynb"
+         },
+         "bulitin_hof2": {
+             "topic_name": "Bulit-In Higher Order Function 2 (Functools) ",
+             "description": "- wraps Function (Copy Metadata of Orignal Function)<br>- singledispatch Function (Change the Function Behavior for Different DataType)<br>- lru_cache Function(Store Recently Use Values)",
+              "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/7.ipynb"
+         },
+         "topic8": {
+             "topic_name": "Currying and Composition",
+             "description": "- Curring (Just Divide Multiple Arguments into Nested Functions)<br>- Composition (Just Pass Functions into Single Function and Create a New Function)<br>- Concept of HOF<br>- Concept of  Closure<br>- Concept of Decorator<br>- Concept of Currying<br>- Concept of Composition",
+              "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/8.ipynb"
+         },
+         "topic9": {
+             "topic_name": "Recursion",
+             "description": "- What is Recursion<br>- Base Case and Recursive Case<br>- Direct Recursion<br>- InDirect Recursion<br>- Tail Recursion<br>- Tree Recursion<br>- Nested Recursion<br>- Common Mistakes in Recursion",
+              "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/9.ipynb"
+         } ,
+         "project1": {
+             "topic_name": "Mini Project",
+             "description": "- Create a Login System<br>- Manage Tokens and Sessions<br>- Manage Validations With Decorators<br>- Use Generator For Send a Messages",
+              "url": "https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/project1.ipynb"
+         }
       }
     },
     "dsa": {
