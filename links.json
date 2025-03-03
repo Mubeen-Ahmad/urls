@@ -104,7 +104,7 @@
         },
         "t2": {
           "topic_name": "Arrays Data Structures",
-          "description": "-  Primitive and Non- Primitive Data Types<br>- Arrays Data Structures<br>- Linear Data Structure<br>- Homogeneous vs Non-Homogeneous <br>- Static vs Dynamic",
+          "description": "-  Primitive and Non- Primitive Data Types<br>- Arrays Data Structures<br>- Linear Data Structure<br>- Homogeneous vs Non-Homogeneous <br>- Static vs Dynamic<br>- Compare C Language Array and Pyrhon<br>- Address<br> Access Values With Address",
           "url": "https://github.com/Mubeen-Ahmad/DSA/blob/main/2.ipynb"
         }
       }
