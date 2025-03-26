@@ -103,14 +103,19 @@
           "url": "https://github.com/Mubeen-Ahmad/DSA/blob/main/1.ipynb"
         },
         "t2": {
-          "topic_name": "Arrays Data Structures",
-          "description": "-  Primitive and Non- Primitive Data Types<br>- Arrays Data Structures<br>- Linear Data Structure<br>- Homogeneous vs Non-Homogeneous <br>- Static vs Dynamic<br>- Compare C Language Array and Python<br>- Address<br>- Access Values With Address",
+          "topic_name": "Data Structures and Types",
+          "description": "-  Primitive and Non- Primitive Data Types<br>- Linear Data Structure<br>- Non Linear Data Structures",
           "url": "https://github.com/Mubeen-Ahmad/DSA/blob/main/2.ipynb"
         },
         "t3": {
+          "topic_name": "Arrays Data Structures",
+          "description": "- Arrays Data Structures<br>- Linear Data Structure<br>- Contiguous Memory Address><br>- Fix (Static) and Dynamic Size Array<br>- Homogeneous vs Non-Homogeneous",
+          "url": "https://github.com/Mubeen-Ahmad/DSA/blob/main/3.ipynb"
+        },
+        "t4": {
           "topic_name": "Arrays CRUD Operations",
           "description": "- Create Array (Insertion in Array)<br>- Read (Traversal in Array)<br>- Update (Modification in Array)<br>- Delete (Remove an Element)",
-          "url": "https://github.com/Mubeen-Ahmad/DSA/blob/main/3.ipynb"
+          "url": "https://github.com/Mubeen-Ahmad/DSA/blob/main/4.ipynb"
         }
       }
     },
