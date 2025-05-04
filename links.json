@@ -117,12 +117,6 @@
           "description": "- Create Array (Insertion in Array)<br>- Read (Traversal in Array)<br>- Update (Modification in Array)<br>- Delete (Remove an Element)",
           "url": "https://github.com/Mubeen-Ahmad/DSA/blob/main/4.ipynb"
         }
-      },
-       "t5": {
-          "topic_name": "Linked List",
-          "description": "- What is Linked Lists <br>- Static and Dynamic Linked list<br>- Node , Head , Tail<br>- Create Linked List Functions",
-          "url": "https://github.com/Mubeen-Ahmad/DSA/blob/main/5.ipynb"
-        }
       }
     },
     "deep_learning": {
