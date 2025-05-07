@@ -117,6 +117,12 @@
                "description":"- Create Array (Insertion in Array)<br>- Read (Traversal in Array)<br>- Update (Modification in Array)<br>- Delete (Remove an Element)",
                "url":"https://github.com/Mubeen-Ahmad/DSA/blob/main/4.ipynb"
             }
+            ,
+            "t5":{
+               "topic_name":"Linked List",
+               "description":"- What is Linked List(Connect Two or More Nodes)<br>- Static and Dynamic Linked list<br>- Node , Head , Tail<br>-  Example 1 Inserting Node at Start<br>- Example 2 Inserting Node at the End<br>- Example 3 Track and Count Nodes<br>- Example 4 Inserting Node at the Mid",
+               "url":"https://github.com/Mubeen-Ahmad/DSA/blob/main/5.ipynb"
+            }
          }
       },
       "deep_learning":{
