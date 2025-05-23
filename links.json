@@ -150,6 +150,12 @@
                     "description": "- Single<br>- Double<br>- Circular",
                     "url": "https://nbviewer.org/github/Mubeen-Ahmad/DSA/blob/main/6.ipynb",
                     "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/DSA/blob/main/6.html"
+                },
+                 "t7": {
+                    "topic_name": "Single Linked List Questions",
+                    "description": "- Single<br>- Double<br>- Circular",
+                    "url": "https://nbviewer.org/github/Mubeen-Ahmad/DSA/blob/main/7.ipynb",
+                    "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/DSA/blob/main/7.html"
                 }
             },
             "html": "dsa.html"
