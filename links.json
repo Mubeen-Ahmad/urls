@@ -161,10 +161,17 @@
             "html": "dsa.html"
         },
         "deep_learning": {
-            "topic_name": "Deep Learning",
-            "description": "Dive into neural networks and cutting-edge AI techniques.",
-            "url": "deep_learning.html",
-            "html": "deep_learning.html"
+            "topic_name": "Statistics for AI",
+            "description": "Learn the Core statistical tools behind AI and Machine Learning",
+            "url": "statistics.html",
+              "subtopics": {
+                "Function": {
+                    "topic_name": "Function",
+                    "description": "- What is Function<br>- What is return Statement<br>- What is Nested Function<br>- *args and  **kwargs<br>- default Argument",
+                    "url": "https://nbviewer.org/github/Mubeen-Ahmad/Functional_Programming/blob/main/0.ipynb",
+                    "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.html"
+                },
+            "html": "statistics.html"
         },
         "python": {
             "topic_name": "Python for Data Science",
