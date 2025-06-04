@@ -160,17 +160,19 @@
             },
             "html": "dsa.html"
         },
-        "deep_learning": {
+        "statistics": {
             "topic_name": "Statistics for AI",
-            "description": "Learn the Core statistical tools behind AI and Machine Learning",
+            "description": "Learn the core statistical tools behind AI and Machine Learning",
             "url": "statistics.html",
               "subtopics": {
-                "Function": {
-                    "topic_name": "Function",
-                    "description": "- What is Function<br>- What is return Statement<br>- What is Nested Function<br>- *args and  **kwargs<br>- default Argument",
-                    "url": "https://nbviewer.org/github/Mubeen-Ahmad/Functional_Programming/blob/main/0.ipynb",
-                    "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/Functional_Programming/blob/main/0.html"
-                },
+                 "t1": {
+                    "topic_name": "What is Statistics",
+                    "description": "- What is Statistics<br>- Pillars of Statistics<br>- Level and Scales of Measurement(Nominal,Ordinal,Interval,Ratio)<br>- Data Types(Categorical,Numerical)",
+                    "url": "https://nbviewer.org/github/Mubeen-Ahmad/AI/blob/main/1.ipynb",
+                    "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/Ai/blob/main/1.html"
+                }
+                
+              },
             "html": "statistics.html"
         },
         "python": {
