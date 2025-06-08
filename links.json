@@ -176,8 +176,8 @@
             "html": "statistics.html"
         },
  "archlinux": {
-            "topic_name": "Arch_Linux",
-            "description": "Learn the core statistical tools behind AI and Machine Learning",
+            "topic_name": "Arch Linux",
+            "description": "Learn Arch Installation and Commands",
             "url": "archlinux.html",
               "subtopics": {
                  "t1": {
