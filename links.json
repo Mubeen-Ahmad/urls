@@ -175,6 +175,22 @@
               },
             "html": "statistics.html"
         },
+ "archlinux": {
+            "topic_name": "Arch_Linux",
+            "description": "Learn the core statistical tools behind AI and Machine Learning",
+            "url": "archlinux.html",
+              "subtopics": {
+                 "t1": {
+                    "topic_name": "What is Statistics",
+                    "description": "- What is Statistics<br>- Pillars of Statistics<br>- Level and Scales of Measurement(Nominal,Ordinal,Interval,Ratio)<br>- Data Types(Categorical,Numerical)",
+                    "url": "https://nbviewer.org/github/Mubeen-Ahmad/AI/blob/main/1.ipynb",
+                    "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/Ai/blob/main/1.html"
+                }
+                
+              },
+            "html": "archlinux.html"
+        },
+
         "python": {
             "topic_name": "Python for Data Science",
             "description": "Enhance your Python skills for data analysis and visualization.",
