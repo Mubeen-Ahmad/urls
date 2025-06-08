@@ -185,7 +185,21 @@
                     "description": "- Download Iso<br>- Install Arch<br>- Create File Systems<br>- Set Boot Record<br>- Set a New Sudo User and Hosts file<br>- Change Fonts and Color<br>- Time Zone",
                     "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/1.ipynb",
                     "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/1.html"
+                },
+		"t2": {
+                    "topic_name": "cd and ls Command",
+                    "description": "- Use of cd and Parameters<br>- Use of ls and Parameters",
+                    "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/2.ipynb",
+                    "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/2.html"
+                },
+		"t3": {
+                    "topic_name": "mkdir, rmdir and rm Command",
+                    "description": "- Use of mkdir and Parameters<br>- Use of rmdir and Parameters<br>- Use of rm and Parameters",
+                    "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/3.ipynb",
+                    "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/3.html"
                 }
+
+
                 
               },
             "html": "archlinux.html"
