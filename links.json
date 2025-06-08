@@ -181,10 +181,10 @@
             "url": "archlinux.html",
               "subtopics": {
                  "t1": {
-                    "topic_name": "What is Statistics",
-                    "description": "- What is Statistics<br>- Pillars of Statistics<br>- Level and Scales of Measurement(Nominal,Ordinal,Interval,Ratio)<br>- Data Types(Categorical,Numerical)",
-                    "url": "https://nbviewer.org/github/Mubeen-Ahmad/AI/blob/main/1.ipynb",
-                    "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/Ai/blob/main/1.html"
+                    "topic_name": "Install Arch",
+                    "description": "- Download Iso<br>- Install Arch<br>- Create File Systems<br>- Set Boot Record<br>- Set a New Sudo User and Hosts file<br>- Change Fonts and Color<br>- Time Zone",
+                    "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/1.ipynb",
+                    "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/1.html"
                 }
                 
               },
