@@ -186,16 +186,22 @@
           "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/1.html"
         },
         "t2": {
-          "topic_name": "cd and ls Command",
+          "topic_name": "cd and ls Commands",
           "description": "- Use of ..<br>- Use of / <br>- Use of ~ or cd<br>- Absolute Path (/home/user)<br>- Relative Path (home/user)<br>- Use of \"Spaces\"<br>- Use of -<br>- 2 Step Level Back (../.. , ls ,cd Both)<br>- ls -l<br>- ls -a<br>- ls -la os -al<br>- ls -lh<br>- ls -lt<br>- ls -R<br>- ls -S<br>- ls -d */",
           "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/2.ipynb",
           "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/2.html"
         },
         "t3": {
-          "topic_name": "mkdir, rmdir and rm Command",
-          "description": "- mkdir -p<br>- mkdir -v<br>- Create Multiple folders<br>- With spaces in folder name<br>- rmdir --ignore-fail<br>- rmdir -p<br>- rm -r (For Folder)<br>- rm (For File)<br>- rm -r<br>- rm -f<br>- rm -rf<br>- rm -i<br>- rm -v<br>",
+          "topic_name": "mkdir, rmdir and rm Commands",
+          "description": "- mkdir -p<br>- mkdir -v<br>- Create Multiple folders<br>- With spaces in folder name<br>- rmdir --ignore-fail<br>- rmdir -p<br>- rm -r (For Folder)<br>- rm (For File)<br>- rm -r<br>- rm -f<br>- rm -rf<br>- rm -i<br>- rm -v",
           "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/3.ipynb",
           "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/3.html"
+        },
+         "t4": {
+          "topic_name": "touch and cat Command",
+          "description": "- touch -c<br>- touch -a<br>- touch -m<br>- touch -t<br>- touch -r<br>- Create Multiple Files<br>- Use Loop touch name{start..end}.ext<br>- cat Read Data<br>- cat >> filename (Append)<br>- cat targetfile 2> logs.txt(Error redirect)<br>- cat targetfile &> logs.txt(STDOUT + STDERR redirect)<br>- cat << EOF >targetfile EOF (Multi-Line Typing)<br>- cat <<< \" string \" > targetfile (Single-Line Typing)<br>- set -o noclobber<br>- cat <<< \" string \" >| targetfile (Bypass noclobber)<br>- Read Multiple Files<br>- cat Append Data<br>- Merge Data and Save into new file<br>- cat -n(Line Number)- cat -b (non-empty lines)<br>- cat -s(Squeeze Consecutive empty lines)<br>- cat -E($ at the end of line)<br>- cat -T(replace tab with ^I)<br>- cat -A($ at the end, and replace Tab with ^I)",
+          "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/4.ipynb",
+          "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/4.html"
         }
       },
       "html": "archlinux.html"
