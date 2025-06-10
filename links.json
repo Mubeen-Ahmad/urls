@@ -193,7 +193,7 @@
         },
         "t3": {
           "topic_name": "mkdir, rmdir and rm Command",
-          "description": "- mkdir -p<br>- mkdir -v<br>- Create Multiple folders<br>- With spaces in folder name<br>- rmdir --ignore-fail<br>- rmdir -p<br>- rm -r (For Folder)<br>- rm (For File)<br>- rm -r<br> rm -f<br>- rm -rf<br>- rm -i<br>- rm -v<br>",
+          "description": "- mkdir -p<br>- mkdir -v<br>- Create Multiple folders<br>- With spaces in folder name<br>- rmdir --ignore-fail<br>- rmdir -p<br>- rm -r (For Folder)<br>- rm (For File)<br>- rm -r<br>- rm -f<br>- rm -rf<br>- rm -i<br>- rm -v<br>",
           "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/3.ipynb",
           "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/3.html"
         }
