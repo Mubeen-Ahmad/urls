@@ -197,20 +197,21 @@
           "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/3.ipynb",
           "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/3.html"
         },
-         "t4": {
+        "t4": {
           "topic_name": "touch and cat Command",
           "description": "- touch -c<br>- touch -a<br>- touch -m<br>- touch -t<br>- touch -r<br>- Create Multiple Files<br>- Use Loop touch name{start..end}.ext<br>- cat Read Data<br>- cat >> filename (Append)<br>- cat targetfile 2> logs.txt(Error redirect)<br>- cat targetfile &> logs.txt(STDOUT + STDERR redirect)<br>- cat << EOF >targetfile EOF (Multi-Line Typing)<br>- cat <<< \" string \" > targetfile (Single-Line Typing)<br>- set -o noclobber<br>- cat <<< \" string \" >| targetfile (Bypass noclobber)<br>- Read Multiple Files<br>- cat Append Data<br>- Merge Data and Save into new file<br>- cat -n(Line Number)- cat -b (non-empty lines)<br>- cat -s(Squeeze Consecutive empty lines)<br>- cat -E($ at the end of line)<br>- cat -T(replace tab with ^I)<br>- cat -A($ at the end, and replace Tab with ^I)",
           "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/4.ipynb",
           "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/4.html"
+        },
+         "t5": {
+          "topic_name": "cp and move Command",
+          "description": "- simple copy<br>- cp -r<br>- copy only content of directory<br>- cp -v<br>- cp -i<br>- cp -u<br>- cp -f<br>- cp -n<br>- cp --preserve=mode,ownership,timestamps<br>- simple move<br>- rename<br>- Move Multiple data<br>- Move Directory<br>- mv -f<br>- mv -v<br>- mv -n<br>- mv -i<br>- mv -t<br>- mv --backup<br>- mv --backup=numbered,existing,simple",
+          "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/5.ipynb",
+          "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/5.html"
         }
       },
       "html": "archlinux.html"
-    },
-    "python": {
-      "topic_name": "Python for Data Science",
-      "description": "Enhance your Python skills for data analysis and visualization.",
-      "url": "python.html",
-      "html": "python.html"
     }
+  
   }
 }
