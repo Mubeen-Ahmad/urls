@@ -208,6 +208,12 @@
           "description": "- simple copy<br>- cp -r<br>- copy only content of directory<br>- cp -v<br>- cp -i<br>- cp -u<br>- cp -f<br>- cp -n<br>- cp --preserve=mode,ownership,timestamps<br>- simple move<br>- rename<br>- Move Multiple data<br>- Move Directory<br>- mv -f<br>- mv -v<br>- mv -n<br>- mv -i<br>- mv -t<br>- mv --backup<br>- mv --backup=numbered,existing,simple",
           "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/5.ipynb",
           "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/5.html"
+        },
+         "t6": {
+          "topic_name": "Users and its Types",
+          "description": "- root user<br>- Normal user<br>- System,Service user<br>- /etc/passwd (All users)<br>- Username and User ID<br>- User Home Directory<br>- User Shell (Basic Only)<br>- Permissions<br>-Create Normal User and Set Password<br>- Delete User",
+          "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/6.ipynb",
+          "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/6.html"
         }
       },
       "html": "archlinux.html"
