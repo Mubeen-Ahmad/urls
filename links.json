@@ -209,9 +209,15 @@
           "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/5.ipynb",
           "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/5.html"
         },
-         "t6": {
+        "t6": {
           "topic_name": "Users and its Types",
-          "description": "- root user<br>- Normal user<br>- System,Service user<br>- /etc/passwd (All users)<br>- Username and User ID<br>- User Home Directory<br>- User Shell (Basic Only)<br>- Permissions<br>-Create Normal User and Set Password<br>- Delete User",
+          "description": "- root user<br>- Normal user<br>- System,Service user<br>- /etc/passwd (All users)<br>- Username and User ID<br>- User Home Directory<br>- User Shell (Basic Only)<br>- Permissions<br>- Create Normal User and Set Password<br>- Delete User",
+          "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/6.ipynb",
+          "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/6.html"
+        },
+         "t7": {
+          "topic_name": "Groups and its types",
+          "description": "- Sudo or Wheel Group<br>- /etc/sudoers file<br>- What is Group<br>- Primary and Secondary Group<br>- Change or add Group",
           "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/6.ipynb",
           "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/6.html"
         }
