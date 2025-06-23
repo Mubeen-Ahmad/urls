@@ -215,11 +215,17 @@
           "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/6.ipynb",
           "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/6.html"
         },
-         "t7": {
+        "t7": {
           "topic_name": "Groups and its types",
           "description": "- Sudo or Wheel Group<br>- /etc/sudoers file<br>- What is Group<br>- Primary and Secondary Group<br>- Change or add Group",
           "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/7.ipynb",
           "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/7.html"
+        },
+         "t8": {
+          "topic_name": "getent, head and tail Commands",
+          "description": "- Use of getent Command<br>- Use of head and tail Command",
+          "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/8.ipynb",
+          "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/8.html"
         }
       },
       "html": "archlinux.html"
