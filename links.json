@@ -221,11 +221,17 @@
           "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/7.ipynb",
           "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/7.html"
         },
-         "t8": {
+        "t8": {
           "topic_name": "getent, head and tail Commands",
           "description": "- Use of getent Command<br>- Use of head and tail Command",
           "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/8.ipynb",
           "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/8.html"
+        },
+          "t9": {
+          "topic_name": "Permissions",
+          "description": "- Read, Write, Execute Permissions<br>- Type User,Group,Other Permissions<br>- Symbolic Notation<br>- Numeric Mode<br>- chmod Parameters",
+          "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/9.ipynb",
+          "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/9.html"
         }
       },
       "html": "archlinux.html"
