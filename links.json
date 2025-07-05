@@ -170,7 +170,13 @@
           "description": "- What is Statistics<br>- Pillars of Statistics<br>- Level and Scales of Measurement(Nominal,Ordinal,Interval,Ratio)<br>- Data Types(Categorical,Numerical)",
           "url": "https://nbviewer.org/github/Mubeen-Ahmad/AI/blob/main/1.ipynb",
           "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/Ai/blob/main/1.html"
-        }
+        },
+		"t2": {
+				  "topic_name": "Types of Data Colums",
+				  "description": "- Column, Variable and Attribute<br>- Univariate<br>- Bivariate<br>- Multivariate<br>- Multi-Target",
+				  "url": "https://nbviewer.org/github/Mubeen-Ahmad/AI/blob/main/2.ipynb",
+				  "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/Ai/blob/main/2.html"
+				}
       },
       "html": "statistics.html"
     },
