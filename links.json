@@ -182,6 +182,12 @@
 				  "description": "- What is Group and Ungroup Data<br>- Advantages and Disadvantages of Group | Ungroup Data<br>- Use Case in Ml Group and Ungroup Data<br>- Means Group | Ungroup Data<br>- Medians Group | Ungroup Data<br>- Mode Group | Ungroup Data",
 				  "url": "https://nbviewer.org/github/Mubeen-Ahmad/AI/blob/main/3.ipynb",
 				  "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/Ai/blob/main/3.html"
+				},
+		"t4": {
+				  "topic_name": "Measures of Dispersion",
+				  "description": "- Range<br>- Mean | Median Deviation<br>- Variance<br>- Standard Deviation<br>- Coefficient of Variation",
+				  "url": "https://nbviewer.org/github/Mubeen-Ahmad/AI/blob/main/4.ipynb",
+				  "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/Ai/blob/main/4.html"
 				}
       },
       "html": "statistics.html"
