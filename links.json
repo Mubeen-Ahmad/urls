@@ -178,8 +178,8 @@
 				  "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/Ai/blob/main/2.html"
 				},
 		"t3": {
-				  "topic_name": "Group | Ungroup Data and Measures of Central Tendency",
-				  "description": "- What is Group and Ungroup Data<br>- Advantages and Disadvantages of Group | Ungroup Data<br>- Use Case in Ml Group and Ungroup Data<br>- Means Group | Ungroup Data<br>- Medians Group | Ungroup Data<br>- Mode Group | Ungroup Data",
+				  "topic_name": "Measures of Central Tendency",
+				  "description": "- Mean<br>- Median<br>- Mode<br>- Geometric Mean<br>- Harmonic Mean",
 				  "url": "https://nbviewer.org/github/Mubeen-Ahmad/AI/blob/main/3.ipynb",
 				  "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/Ai/blob/main/3.html"
 				},
