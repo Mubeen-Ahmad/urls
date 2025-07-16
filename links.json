@@ -179,7 +179,7 @@
 				},
 		"t3": {
 				  "topic_name": "Measures of Central Tendency",
-				  "description": "- Mean<br>- Median<br>- Mode<br>- Geometric Mean<br>- Harmonic Mean",
+				  "description": "- Mean<br>- Median<br>- Mode<br>- Geometric Mean<br>- Harmonic Mean<br>- Trimmed Mean<br>- Weighted Mean<br>- Exponential Moving Average",
 				  "url": "https://nbviewer.org/github/Mubeen-Ahmad/AI/blob/main/3.ipynb",
 				  "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/Ai/blob/main/3.html"
 				},
