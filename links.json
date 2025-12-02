@@ -253,6 +253,17 @@
         }
       },
       "html": "archlinux.html"
-    }
+    },
+     "rust": {
+      "topic_name": "Arch Linux",
+      "description": "Learn Arch Installation and Commands",
+      "url": "archlinux.html",
+      "subtopics": {
+        "t1": {
+          "topic_name": "Install Arch",
+          "description": "- Download Arch Iso And Boot-it<br>- Connect Wifi<br>- Install Arch<br>- Create Partitions<br>- Set Partition Type and Format<br>- Set Base System<br>- Set Host and Bootloader<br>- Set Root password<br>- Terminal fonts and Colours<br>- Add sudouser<br>- set Timezone and Localization setup<br>- Forgot Root Password",
+          "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/1.ipynb",
+          "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/1.html"
+        }
   }
 }
