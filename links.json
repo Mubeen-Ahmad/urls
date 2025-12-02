@@ -264,6 +264,12 @@
           "description": "- What is rust<br>- Interpreter or Compiler Based ?<br>- rustc<br>- main function (like c/cpp)<br>- println! Macro<br>- {} placeholder<br>- Positional Arguments<br>- Named Arguments",
           "url": "https://nbviewer.org/github/Mubeen-Ahmad/rust/blob/main/1.ipynb",
           "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/rust/blob/main/1.html"
+        },
+        "t2": {
+          "topic_name": "Variables",
+          "description": "- What is Variables<br>- Define a Variable<br>- Assign Value<br>- Define and Assign<br>- Immutable Variable<br>- Mutable Variable<br>- Shadowing<br>- Constant<br>- What is Scope<br>- Block Scope<br>- Global Scope<br>- Local Variable<br>- Global Variable<br>- Static Variable<br>- const vs static<br>- convert static to mutable with unafe() block",
+          "url": "https://nbviewer.org/github/Mubeen-Ahmad/rust/blob/main/2.ipynb",
+          "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/rust/blob/main/2.html"
         }
       }
     }
