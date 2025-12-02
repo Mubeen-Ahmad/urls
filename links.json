@@ -171,24 +171,24 @@
           "url": "https://nbviewer.org/github/Mubeen-Ahmad/AI/blob/main/1.ipynb",
           "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/Ai/blob/main/1.html"
         },
-		"t2": {
-				  "topic_name": "Types of Data Colums",
-				  "description": "- Column, Variable and Attribute<br>- Univariate<br>- Bivariate<br>- Multivariate<br>- Multi-Target",
-				  "url": "https://nbviewer.org/github/Mubeen-Ahmad/AI/blob/main/2.ipynb",
-				  "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/Ai/blob/main/2.html"
-				},
-		"t3": {
-				  "topic_name": "Measures of Central Tendency",
-				  "description": "- Mean<br>- Median<br>- Mode<br>- Geometric Mean<br>- Harmonic Mean<br>- Trimmed Mean<br>- Weighted Mean<br>- Moving Average<br>- Exponential Moving Average",
-				  "url": "https://nbviewer.org/github/Mubeen-Ahmad/AI/blob/main/3.ipynb",
-				  "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/Ai/blob/main/3.html"
-				},
-		"t4": {
-				  "topic_name": "Measures of Dispersion",
-				  "description": "- Range<br>- Mean | Median Deviation<br>- Variance<br>- Standard Deviation<br>- Coefficient of Variation",
-				  "url": "https://nbviewer.org/github/Mubeen-Ahmad/AI/blob/main/4.ipynb",
-				  "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/Ai/blob/main/4.html"
-				}
+        "t2": {
+          "topic_name": "Types of Data Colums",
+          "description": "- Column, Variable and Attribute<br>- Univariate<br>- Bivariate<br>- Multivariate<br>- Multi-Target",
+          "url": "https://nbviewer.org/github/Mubeen-Ahmad/AI/blob/main/2.ipynb",
+          "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/Ai/blob/main/2.html"
+        },
+        "t3": {
+          "topic_name": "Measures of Central Tendency",
+          "description": "- Mean<br>- Median<br>- Mode<br>- Geometric Mean<br>- Harmonic Mean<br>- Trimmed Mean<br>- Weighted Mean<br>- Moving Average<br>- Exponential Moving Average",
+          "url": "https://nbviewer.org/github/Mubeen-Ahmad/AI/blob/main/3.ipynb",
+          "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/Ai/blob/main/3.html"
+        },
+        "t4": {
+          "topic_name": "Measures of Dispersion",
+          "description": "- Range<br>- Mean | Median Deviation<br>- Variance<br>- Standard Deviation<br>- Coefficient of Variation",
+          "url": "https://nbviewer.org/github/Mubeen-Ahmad/AI/blob/main/4.ipynb",
+          "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/Ai/blob/main/4.html"
+        }
       },
       "html": "statistics.html"
     },
@@ -245,7 +245,7 @@
           "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/8.ipynb",
           "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/arch/blob/main/8.html"
         },
-          "t9": {
+        "t9": {
           "topic_name": "Permissions",
           "description": "- Read, Write, Execute Permissions<br>- Type User,Group,Other Permissions<br>- Symbolic Notation<br>- Numeric Mode<br>- chmod Parameters",
           "url": "https://nbviewer.org/github/Mubeen-Ahmad/arch/blob/main/9.ipynb",
@@ -254,6 +254,5 @@
       },
       "html": "archlinux.html"
     }
-    
   }
 }
