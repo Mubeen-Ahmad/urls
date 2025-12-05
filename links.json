@@ -261,7 +261,7 @@
       "subtopics": {
         "t1": {
           "topic_name": "Basic of Rust",
-          "description": "- What is rust<br>- Interpreter or Compiler Based ?<br>- rustc<br>- main function (like c/cpp)<br>- println! Macro<br>- {} placeholder<br>- Positional Arguments<br>- Named Arguments",
+          "description": "- What is rust<br>- Interpreter or Compiler Based ?<br>- rustc<br>- main function (like c/cpp)<br>- println! Macro<br>- {} placeholder<br>- Positional Arguments<br>- Named Arguments<br>- Only Double Qoutes are Used as string, Placeholder",
           "url": "https://nbviewer.org/github/Mubeen-Ahmad/rust/blob/main/1.ipynb",
           "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/rust/blob/main/1.html"
         },
