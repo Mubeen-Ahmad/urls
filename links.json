@@ -270,6 +270,12 @@
           "description": "- What is Variables<br>- Define a Variable<br>- Assign Value<br>- Define and Assign<br>- Immutable Variable<br>- Mutable Variable<br>- Shadowing<br>- Constant<br>- What is Scope<br>- Block Scope<br>- Global Scope<br>- Local Variable<br>- Global Variable<br>- Static Variable<br>- const vs static<br>- convert static to mutable with unafe() block",
           "url": "https://nbviewer.org/github/Mubeen-Ahmad/rust/blob/main/2.ipynb",
           "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/rust/blob/main/2.html"
+        },
+        "t3": {
+          "topic_name": "Multiple Variables ,Identifers and Comments",
+          "description": "- Identifiers<br>- Identifier Rules<br>- Multiple Variables at single line<br>- Swap Varible<br>- Comments",
+          "url": "https://nbviewer.org/github/Mubeen-Ahmad/rust/blob/main/3.ipynb",
+          "html": "https://htmlpreview.github.io/?https://github.com/Mubeen-Ahmad/rust/blob/main/3.html"
         }
       }
     }
